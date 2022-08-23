@@ -97,7 +97,10 @@ var countryCodes = {
   TC: 'Turks and Caicos Islands',
   GG: 'Guernsey',
   JE: 'Jersey',
-  IM: 'Isle of Man'
+  IM: 'Isle of Man',
+  NO: 'Norway',
+  IS: 'Iceland',
+  LI: 'Liechtenstein'
 }
 
 function browserTimezone() {
